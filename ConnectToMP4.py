@@ -88,7 +88,7 @@ def adobe_connect_to_mp4(classroom_link,directory_path,duration=0):
     import pyautogui
 
     # initialize firefox browser
-    fp = FirefoxProfile('/home/ali/.mozilla/firefox/vawpb6rp.default-release-2')
+    fp = FirefoxProfile()
     options = Options()
     options.add_argument("--width=1280")
     options.add_argument("--height=794")
