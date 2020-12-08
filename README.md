@@ -29,3 +29,19 @@ http://lms.kashanu.ac.ir/mod/adobeconnect/joinrecording.php?id=14268&recording=2
 برای اینکه مشکل عدم پشتیبانی مرورگر های جدید از ادوبی فلش مرتفع شود از نسخه Mozilla Firefox 68.0.2 استفاده کردیم
 
 فایل ConnectToMP4 وظیفه ضبط صفحه و ادغام ویدیو و صوت را دارد.
+
+این برنامه حتما باید تحت لینوکس اجرا شود و پیشنیاز های آن نیز نصب شده باشد
+
+python3
+
+ffmpeg
+
+selenium
+
+firefox 68 and geckodriver 0.26.0
+
+Xvfb
+
+... :)
+
+
