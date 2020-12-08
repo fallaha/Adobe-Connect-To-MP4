@@ -31,8 +31,10 @@ http://lms.kashanu.ac.ir/mod/adobeconnect/joinrecording.php?id=14268&recording=2
 فایل ConnectToMP4 وظیفه ضبط صفحه و ادغام ویدیو و صوت را دارد.
 
 این برنامه حتما باید تحت لینوکس اجرا شود و پیشنیاز های آن نیز نصب شده باشد
+
+چندتا از مهمترین پیش نیاز ها ایناست
 ```
-python3, ffmpeg, selenium, firefox 68 and geckodriver 0.26.0, Xvfb , ... :)
+python3, ffmpeg, selenium, firefox 68, geckodriver 0.26.0, Xvfb
 ```
 برای اجرای آن میتوانید فایل Kashanu.py خطوط ۷۴ و ۷۵ و ۷۶ را تغییر داده و یوزرنیم و پسورد و لینک جلسه مدنظرتان را قرار دهید.
 
